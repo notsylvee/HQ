@@ -18,7 +18,7 @@ module.exports = {
     if (chance < 748) {
       return;
     } else {
-      message.channel.send(`${voiceline}`);
+      message.channel.send(`<:HQ:1395288115601735714> ${voiceline}`);
     };
   },
 };
