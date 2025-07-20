@@ -19,7 +19,7 @@ module.exports = {
       .setTitle(`${suit.name}`)
       .setDescription(`${suit.description}`)
       .setThumbnail(`https://cdn.sylvee.xyz/${suit.path}.png`)
-      //.setFooter({ text: 'bage/price', iconURL: 'badge/kroner/robux' })
+      .addFields({ name: '\u200b', value: `${suit.price}` })
 
       await interaction.reply({ embeds: [embed] });
     },
