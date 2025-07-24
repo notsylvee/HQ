@@ -16,6 +16,7 @@ module.exports = {
       const suit = suits[Math.floor(Math.random() * suits.length)];
 
       const embed = new EmbedBuilder()
+      .setColor(`#bbc3cd`)
       .setTitle(`${suit.name}`)
       .setDescription(`${suit.description}`)
       .setThumbnail(`https://cdn.sylvee.xyz/${suit.path}.png`)
