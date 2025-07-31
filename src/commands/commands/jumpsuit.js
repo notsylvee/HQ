@@ -19,7 +19,7 @@ module.exports = {
       .setColor(`#bbc3cd`)
       .setTitle(`${suit.name}`)
       .setDescription(`${suit.description}`)
-      .setThumbnail(`https://cdn.sylvee.xyz/${suit.path}.png`)
+      .setThumbnail(`https://cdn.sylvee.xyz/pressurejumpsuit${suit.path}.png`)
       .addFields({ name: '\u200b', value: `${suit.price}` })
 
       await interaction.reply({ embeds: [embed] });
