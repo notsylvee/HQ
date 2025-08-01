@@ -19,7 +19,7 @@ module.exports = {
       .setColor(`#bbc3cd`)
       .setTitle(`${ugc.name}`)
       .setDescription(`${ugc.description}`)
-      .setThumbnail(`https://cdn.sylvee.xyz/pressurejumpugc${ugc.num}.png`)
+      .setThumbnail(`https://cdn.sylvee.xyz/pressureugc${ugc.num}.png`)
       .addFields({ name: '\u200b', value: `<:Robux:1400684315674935346> ${ugc.price}` })
 
       await interaction.reply({ embeds: [embed] });
