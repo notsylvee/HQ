@@ -63,6 +63,24 @@
         { "num": "61", "name": "Imaginary Friend", "description": ":3", "price": "145" },
         { "num": "62", "name": "Black Angel Wings", "description": "yay", "price": "145" },
         { "num": "63", "name": "White Angel Wings", "description": "yay", "price": "145" },
-        { "num": "64", "name": "Outraged Eyefestation", "description": "wad", "price": "95" }
+        { "num": "64", "name": "Outraged Eyefestation", "description": "wad", "price": "95" },
+        { "num": "65", "name": "Lady Death", "description": "yay", "price": "95" },
+        { "num": "66", "name": "Lady Death's hat", "description": "yay", "price": "95" },
+        { "num": "67", "name": "Lady Death's neckfur", "description": "yay", "price": "95" },
+        { "num": "68", "name": "Lady Death's necklace", "description": "yay", "price": "55" },
+        { "num": "69", "name": "Lady Death's scythe", "description": "yay", "price": "140" },
+        { "num": "70", "name": "White Angel Head", "description": "yay", "price": "95" },
+        { "num": "71", "name": "Black Angel Head", "description": "yay", "price": "95" },
+        { "num": "72", "name": "White Angel Eye", "description": "yay", "price": "95" },
+        { "num": "73", "name": "Black Angel Eye", "description": "yay", "price": "95" },
+        { "num": "74", "name": "White Angel Ring", "description": "yay", "price": "95" },
+        { "num": "75", "name": "Black Angel Ring", "description": "yay", "price": "95" },
+        { "num": "76", "name": "White Angel Halo", "description": "yay", "price": "95" },
+        { "num": "77", "name": "Black Angel Halo", "description": "yay", "price": "95" },
+        { "num": "78", "name": "White Angel Chestpiece", "description": "yay", "price": "55" },
+        { "num": "79", "name": "Black Angel Chestpiece", "description": "yay", "price": "55" },
+        { "num": "80", "name": "N.A.V.I core", "description": "yay", "price": "95" },
+        { "num": "81", "name": "The Almighty's cross - Purple & Dark Grey", "description": "yay", "price": "55" },
+        { "num": "82", "name": "The Almighty's cross - Red & Light Grey", "description": "yay", "price": "55" }
     ]
 }
